@@ -1,5 +1,5 @@
 # Dapperautoparts.
- Dapperautoparts is an e-commerce platform I built for a Client using the Django framework, offering a comprehensive inventory of auto parts for customers to purchase with ease.
+ Dapperautoparts is an e-commerce platform I built for a Friend using the Django framework, offering a comprehensive inventory of auto parts for customers to purchase with ease.
 <hr>
 <p>It features a responsive user interface designed for optimal viewing and navigation on any device. It allows users to easily browse and purchase auto parts regardless of the device they use to access the platform.</p>
 
